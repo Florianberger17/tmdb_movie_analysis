@@ -9,7 +9,7 @@ The dataset 'tmdb-movies.csv' has been accessed downloaded the udacity page ('ht
 ## Installation
 - Jupyter Notebook
 #### Dependencies
-Execution of the .ipynb requires:
+Execution of the Code requires:
 - Python
 - Numpy
 - Pandas
