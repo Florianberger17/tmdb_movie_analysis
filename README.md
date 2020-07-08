@@ -6,11 +6,10 @@ nanodegree at udacity.
 ## Datasets
 The dataset 'tmdb-movies.csv' has been accessed downloaded the udacity page ('https://www.udacity.com/').
 
-## Installation
-- Jupyter Notebook
-#### Dependencies
+## Dependencies
 Execution of the Code requires:
-- Python
-- Numpy
-- Pandas
-- Matplotlib
+- Jupyter Notebook 6.0.3
+- Python 3.7.6
+- Numpy v1.19
+- Pandas 1.0.5
+- Matplotlib 3.2.2
